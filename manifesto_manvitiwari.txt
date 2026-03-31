@@ -1,0 +1,8 @@
+--- MY OPEN SOURCE MANIFESTO ---
+Generated on: 29 March 2026
+Author: Manvi
+
+I believe that software should be a public resource. Every day, I rely on firefox
+to navigate the digital world. To me, true freedom in technology means ownership.
+If I had the chance to contribute back to the community, I would build a student app
+and release it under an open license so others can learn and grow from it.
